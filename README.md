@@ -5,7 +5,7 @@
 
 A research report and presentation on Node.js, the open-source runtime that lets JavaScript run outside the browser. They cover where Node.js came from, how it works, its strengths and weaknesses, what it is used for, and how companies such as LinkedIn and PayPal use it. A short sample program is included.
 
-**[Read the report on GitHub →](NodeJS_Report.md)**
+**[Read the report on GitHub →](NodeJS/NodeJS_Report.md)**
 
 ---
 
@@ -13,10 +13,10 @@ A research report and presentation on Node.js, the open-source runtime that lets
 
 | File | Description |
 |------|-------------|
-| [`NodeJS_Report.md`](NodeJS_Report.md) | The report in Markdown, readable directly on GitHub |
+| [`NodeJS_Report.md`](NodeJS/NodeJS_Report.md) | The report in Markdown, readable directly on GitHub |
 | `NodeJS_Report.docx` | The original report (Word) |
 | `NodeJS_PowerPoint.pptx` | The presentation (16 slides) |
-| [`server.js`](server.js) | The sample "Hello World" server from the report |
+| [`server.js`](NodeJS/server.js) | The sample "Hello World" server from the report |
 | `images/` | Images used by the Markdown report |
 
 ---
@@ -81,7 +81,7 @@ The example is based on the [W3Schools Node.js tutorial](https://www.w3schools.c
 - Panchal, Y. (2024). *Building Scalable Web Applications with Node.js and Express.js*. Delhi: Orange Education Pvt Ltd.
 - W3Schools. (2025). *Node.js Tutorial*. <https://www.w3schools.com/nodejs/>
 
-The full bibliography is at the end of the [report](NodeJS_Report.md#bibliography).
+The full bibliography is at the end of the [report](NodeJS/NodeJS_Report.md#bibliography).
 
 ---
 
