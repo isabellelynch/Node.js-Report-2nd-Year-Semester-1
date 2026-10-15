@@ -84,28 +84,3 @@ The example is based on the [W3Schools Node.js tutorial](https://www.w3schools.c
 The full bibliography is at the end of the [report](NodeJS/NodeJS_Report.md#bibliography).
 
 ---
-
-## Changes made during review (October 2026)
-
-The report and presentation were proofread and fact-checked, and the sample code was run to confirm it works as described.
-
-**Report and presentation**
-- Spelling: "compatability" → "compatibility", "prebuilt models" → "prebuilt modules", "API's" → "APIs".
-- The cropped code screenshots were recreated so the start of each line is no longer cut off, including "Hello World!" in Figure 2. They keep the same size, style and colours, and the arrows on slides 11–12 still point to the same lines.
-
-**Report**
-- **Facts:**
-  - PayPal "approximately 432 active users" → about 438 million active accounts (PayPal, Q3 2025).
-  - LinkedIn's member and language figures updated: "706 million members" dated from 2020, and LinkedIn passed one billion members in 2023.
-- **Names:** "Jeff Harrel" → "Jeff Harrell", and "JS Conference" → "JSConf EU", where Ryan Dahl first presented Node.js.
-- **Accuracy:** Node.js handles requests *concurrently* on one thread rather than "in parallel".
-- **Citations:**
-  - "According to (Herron, 2020)" → "According to Herron (2020)", with matching spacing fixes.
-  - "(Yamini Panchal, 2024)" → "(Panchal, 2024)", consistent with the other citations.
-- **Wording:** smaller fixes, including the repeated "In my opinion, I believe", "proven" → "shown", and stray quotation marks.
-
-**Presentation**
-- Slide 2 reworded: JavaScript code is *packaged into* libraries; the language itself doesn't contain them.
-- Footer name capitalised ("Isabelle Lynch"), and "In my opinion, I believe" shortened on slide 13.
-
-In Word, right-click the table of contents and choose **Update Field → Update entire table** to refresh it after any further edits.
